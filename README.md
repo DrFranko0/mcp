@@ -9,3 +9,6 @@ This project is a LinkedIn Profile Scraper built using FastMCP and httpx to fetc
 + A RapidAPI account with access to the LinkedIn Profile Scraper API.
 + A valid RAPIDAPI_KEY.
 + Installed dependencies from requirements.txt.
+
+# Video Link:
+https://drive.google.com/file/d/1I3V8SlOgvMgg8hiMxO3Z2lrZl7v00VqM/view?usp=sharing
